@@ -1,0 +1,164 @@
+cv:
+  name: Chen Yi'ang
+  label: M.Eng. Student
+  email: chenya@stu.hit.edu.cn
+  location: Harbin, China
+  image: ""
+  summary: >
+    Researching multimodal world models, spatial intelligence, 3D/4D scene understanding,
+    geometrically consistent visual generation, and vision-language-action agents.
+
+  social_networks:
+    - network: GitHub
+      username: # to be added
+    - network: Google Scholar
+      username: # to be added
+
+  address:
+    city: Harbin
+    region: Heilongjiang
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Harbin Institute of Technology
+        location: Harbin, China
+        url: https://www.hit.edu.cn/
+        area: Computer Technology
+        studyType: M.Eng.
+        start_date: "2024"
+        end_date: "2027"
+        score: ""
+        highlights:
+          - "Xiaomi Scholarship."
+          - "Research focus: multimodal world models, spatial intelligence, multimodal understanding and generation."
+
+      - institution: South China University of Technology
+        location: Guangzhou, China
+        url: https://www.scut.edu.cn/
+        area: Mathematics and Applied Mathematics
+        studyType: B.Sc.
+        start_date: "2019"
+        end_date: "2023"
+        highlights:
+          - "Australian Alumni Scholarship."
+
+    Experience:
+      - company: Meituan, Dianping Technology Department
+        position: Research Intern
+        location: Shanghai, China
+        start_date: "2026-07"
+        end_date: "Present"
+        summary: "Generative World Models."
+        highlights:
+          - "Study weakly structured visual-asset understanding and geometric reconstruction with Qwen3-VL-2B and VGGT-1B under sparse views, occlusions, and low-texture conditions."
+          - "Build an uncertainty-aware semantic--geometric cooperative reasoning framework; reduces geometric-verification cost by 40% and reaches 85.2% Edge F1."
+          - "Develop a geometry-conditioned 3D-aware video generation framework based on Wan2.2-14B, injecting camera poses, depth, and surface normals."
+
+      - company: Tencent, TEG AI Platform
+        position: Applied Research Intern
+        location: Shenzhen, China
+        start_date: "2026-04"
+        end_date: "2026-07"
+        summary: "Multimodal VLA Agent for Honor of Kings."
+        highlights:
+          - "Developed instruction fusion and VLA alignment for a multimodal game agent using MoE routing, KL regularization, and PPO post-training."
+          - "Built a 170K-sample Event Gate/Loop Control SFT pipeline for a multi-agent LLM planner."
+          - "Instruction completion improved by 26.1%; event completion from 7.31% to 33.35%."
+
+      - company: Wuhan Dashuiyun Technology
+        position: Algorithm Intern
+        location: Wuhan, China
+        start_date: "2025-10"
+        end_date: "2026-03"
+        summary: "Intelligent Perception R&D Center."
+        highlights:
+          - "Developed a temporally consistent rain-video restoration model for UAV inspection."
+          - "Improved object-detection mAP from 65.2% to 71.6% and reduced temporal error from 0.293 to 0.108."
+          - "Optimized FP16 inference with ONNX and TensorRT, achieving 23.1 FPS real-time deployment."
+
+    Awards:
+      - title: CVPR NTIRE 2026 Challenge — Champion
+        date: "2026"
+        awarder: CVPR NTIRE
+        summary: "Day and Night Raindrop Removal for Dual-Focused Images. 1st / 168 teams."
+
+      - title: CVPR NTIRE 2025 & 2026 Challenge — Runner-up
+        date: "2025, 2026"
+        awarder: CVPR NTIRE
+        summary: "Single Image Reflection Removal in the Wild. 2nd / 113 and 2nd / 150 teams."
+
+      - title: Xiaomi Scholarship
+        date: ""
+        awarder: Harbin Institute of Technology
+
+      - title: Australian Alumni Scholarship
+        date: ""
+        awarder: South China University of Technology
+
+    Publications:
+      - title: "Look, Verify, and Connect: Iterative Spatial Reasoning from Sparse Views"
+        authors:
+          - Chen Yi'ang
+        publisher: ICLR 2027 (Submitted)
+        releaseDate: "2027"
+        url: ""
+        summary: "Uncertainty-aware iterative spatial reasoning combining VLM semantic judgment, multi-view geometric verification, and global graph optimization."
+
+      - title: "SGVD: Selective Generative Video Deraining with Uncertainty-Aware Diffusion"
+        authors:
+          - Chen Yi'ang
+        publisher: IEEE TMM 2026 (Major Revision)
+        releaseDate: "2026"
+        url: ""
+        summary: "Uncertainty-aware diffusion framework with anchor-frame constraints for temporally consistent video deraining."
+
+      - title: "KOS: Coherent Query-State Advancement for Temporal Camera-Only 3D Detection"
+        authors:
+          - "(Second Author)"
+        publisher: AAAI 2027 (Submitted)
+        releaseDate: "2027"
+        url: ""
+        summary: "Temporal multi-view 3D detection with motion priors and uncertainty-residual query correction."
+
+      - title: "STDVD: Motion-Guided Differential Mamba for High-Fidelity Video Deraining"
+        authors:
+          - Chen Yi'ang
+        publisher: AAAI 2027 (Submitted)
+        releaseDate: "2027"
+        url: ""
+
+      - title: "S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining"
+        authors:
+          - Chen Yi'ang
+        publisher: IEEE TITS 2026 (Minor Revision)
+        releaseDate: "2026"
+        url: ""
+
+    Projects:
+      - name: "Multimodal Information Fusion for Multi-Degradation Image Enhancement"
+        summary: "National Undergraduate Innovation and Entrepreneurship Project (Recommended). Built a VLM--LLM-driven image-enhancement agent using semantic perception and model routing."
+        highlights:
+          - "Surpassed the prior state of the art by 1.5 dB PSNR."
+        start_date: "2024-10"
+        end_date: "2025-10"
+
+      - name: "Cloud--Edge Collaborative License Plate Tracking and Recognition with Qwen-VL"
+        summary: "Industry Collaboration Project. Built a Qwen2-VL cloud--edge collaborative recognition system."
+        highlights:
+          - "Reduced transmission bitrate by 40% and improved recognition accuracy by 28% in challenging dynamic scenes."
+        start_date: "2024-09"
+        end_date: "2025-03"
+
+    Skills:
+      - name: Research Methods
+        level: Advanced
+        keywords: "Vision-Language Models, Diffusion Models, Flow Matching, 3D Vision, Video Generation, Mixture-of-Experts, LoRA, SFT, PPO"
+
+      - name: Frameworks & Systems
+        level: Advanced
+        keywords: "PyTorch, DeepSpeed, ONNX, TensorRT, Linux, Git"
+
+      - name: Infrastructure
+        level: Advanced
+        keywords: "Multi-GPU and distributed training, data pipelines, model evaluation, inference optimization, deployment"

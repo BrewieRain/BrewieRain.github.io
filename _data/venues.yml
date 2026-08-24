@@ -1,0 +1,15 @@
+"ICLR":
+  url: https://iclr.cc/
+  color: "#287055"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#0066cc"
+
+"IEEE TMM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+  color: "#cc0000"
+
+"IEEE TITS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
+  color: "#cc0000"
