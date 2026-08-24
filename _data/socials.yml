@@ -1,10 +1,7 @@
 # Social media links and usernames of the author
-# The socials will be displayed in the order they are defined here
-cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file (to be added)
+# The socials will be displayed in the order they are defined here.
+cv_pdf: /assets/pdf/CV.pdf # Upload the final CV to this location later.
 email: chenya@stu.hit.edu.cn
-scholar_userid: # your Google Scholar ID (to be added)
-# wechat_qr:
-custom_social:
-  logo: # can be png, svg, jpg
-  title:
-  url:
+# scholar_userid: # Add your Google Scholar ID when available.
+# github_username: # Add your GitHub username when available.
+# wechat_qr: # Add the filename of a QR code in assets/img/ when available.
