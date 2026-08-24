@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://brewierain.github.io//sitemap.xml
