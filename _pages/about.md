@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Chen Yi'ang (陈奕昂)**, a Master's student in **Computer Technology** at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), expected to graduate in **June 2027**. I am supervised by **Prof. Kui Jiang (江奎)** in the **AIIA Lab**. I earned my Bachelor's degree in **Mathematics and Applied Mathematics** from [South China University of Technology](https://www.scut.edu.cn/).
+I am **brewiecya (陈奕昂)**, a Master's student in **Computer Technology** at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), expected to graduate in **June 2027**. I am supervised by **Prof. Kui Jiang (江奎)** in the **AIIA Lab**. I earned my Bachelor's degree in **Mathematics and Applied Mathematics** from [South China University of Technology](https://www.scut.edu.cn/).
 
 My research interests lie in **multimodal foundation models**, **world models**, and **spatial intelligence**, with the long-term goal of building spatially intelligent systems that perceive, understand, and generate consistent 3D/4D scenes for embodied AI. I am currently a Research Intern at [Meituan](https://www.meituan.com/) (Dianping Technology Department), working on weakly structured visual-asset understanding and geometry-conditioned 3D-aware video generation.
 
